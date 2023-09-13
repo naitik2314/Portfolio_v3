@@ -57,6 +57,10 @@ import {
       title: "Content Creator",
       icon: creator,
     },
+    {
+      title: "StarBucks",
+      icon: starbucks
+    }
   ];
   
   const technologies = [
@@ -116,16 +120,14 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
+      title: "Business Analyst Intern",
+      company_name: "VNS Switchgear PVT LTD",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "July 2019 - December 2019",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Conducted comprehensive data analysis & market research to identify market trends, customer preferences & business opportunities, contributing to successful product development & launches.",
+        "Led process improvements & automation initiatives, reducing operational costs by 30% & enhancing productivity across departments.Revamped company processes, driving a 20% increase in profitability & improved user experience.",
       ],
     },
     {
