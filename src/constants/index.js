@@ -57,10 +57,6 @@ import {
       title: "Content Creator",
       icon: creator,
     },
-    {
-      title: "StarBucks",
-      icon: starbucks
-    }
   ];
   
   const technologies = [
