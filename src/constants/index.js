@@ -86,10 +86,6 @@ import {
       icon: adobe,
     },
     {
-      name: "Python",
-      icon: python,
-    },
-    {
       name: "Tailwind CSS",
       icon: tailwind,
     },
