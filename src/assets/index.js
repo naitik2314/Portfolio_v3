@@ -24,6 +24,10 @@ import python from "./tech/python.png"
 import flutter from "./tech/flutter.png"
 import adobe from "./tech/adobe.png"
 import c from "./tech/c.png"
+import firebase from "./tech/firebase.png"
+import azure from "./tech/azure.png"
+import aws from "./tech/aws.png"
+import gcp from "./tech/gcp.png"
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -44,10 +48,14 @@ export {
   menu,
   close,
   css,
+  firebase,
   docker,
   flutter,
   adobe,
   figma,
+  azure,
+  aws,
+  gcp,
   git,
   html,
   javascript,

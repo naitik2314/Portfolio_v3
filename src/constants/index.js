@@ -10,6 +10,10 @@ import {
     reactjs,
     tailwind,
     mongodb,
+    firebase,
+    azure,
+    aws,
+    gcp,
     c,
     git,
     figma,
@@ -67,20 +71,20 @@ import {
       icon: flutter,
     },
     {
-      name: "HTML 5",
-      icon: html,
+      name: "Firebase",
+      icon: firebase,
     },
     {
-      name: "CSS 3",
-      icon: css,
+      name: "Azure",
+      icon: azure,
     },
     {
-      name: "JavaScript",
-      icon: javascript,
+      name: "AWS",
+      icon: aws,
     },
     {
-      name: "TypeScript",
-      icon: typescript,
+      name: "Google Cloud Platform",
+      icon: gcp,
     },
     {
       name: "Adobe creative suite",
@@ -160,7 +164,7 @@ import {
       ],
     },
     {
-      title: "Student Assistant Comouting & Information Technology",
+      title: "Student Assistant Computing & Information Technology",
       company_name: "Wayne State University",
       icon: meta,
       iconBg: "#E6DEDD",
