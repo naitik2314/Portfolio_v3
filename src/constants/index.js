@@ -87,24 +87,24 @@ import {
       icon: gcp,
     },
     {
-      name: "Adobe creative suite",
-      icon: adobe,
-    },
-    {
       name: "Tailwind CSS",
       icon: tailwind,
+    },
+    {
+      name: "HTML",
+      icon: hyml,
     },
     {
       name: "C",
       icon: c,
     },
     {
-      name: "Three JS",
-      icon: threejs,
-    },
-    {
       name: "git",
       icon: git,
+    },
+    {
+      name: "Adobe creative suite",
+      icon: adobe,
     },
     {
       name: "figma",
