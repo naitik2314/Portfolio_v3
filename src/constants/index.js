@@ -8,14 +8,13 @@ import {
     html,
     css,
     reactjs,
-    redux,
     tailwind,
-    nodejs,
     mongodb,
     git,
     figma,
     docker,
     python,
+    flutter,
     meta,
     starbucks,
     tesla,
@@ -24,6 +23,7 @@ import {
     jobit,
     tripguide,
     threejs,
+    flutter,
   } from "../assets";
   
   export const navLinks = [
@@ -62,6 +62,10 @@ import {
       icon: python,
     },
     {
+      name: "Flutter",
+      icon: flutter,
+    },
+    {
       name: "HTML 5",
       icon: html,
     },
@@ -84,10 +88,6 @@ import {
     {
       name: "Tailwind CSS",
       icon: tailwind,
-    },
-    {
-      name: "Node JS",
-      icon: nodejs,
     },
     {
       name: "MongoDB",
