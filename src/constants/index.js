@@ -23,7 +23,6 @@ import {
     jobit,
     tripguide,
     threejs,
-    flutter,
   } from "../assets";
   
   export const navLinks = [
