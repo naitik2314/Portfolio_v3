@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in Docker, MySQL, C, JavaScript, HTML, CSS
+        I'm a skilled software developer with competence in Docker, MySQL, C, JavaScript, Tailwind CSS
         and expertise in Flutter, and Python. 
         I'm a quick learner and collaborate closely with clients to
         create efficient, scalable, and user-friendly solutions that solve
