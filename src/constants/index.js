@@ -92,7 +92,7 @@ import {
     },
     {
       name: "HTML",
-      icon: hyml,
+      icon: html,
     },
     {
       name: "C",
