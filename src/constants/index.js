@@ -15,6 +15,7 @@ import {
     git,
     figma,
     docker,
+    python,
     meta,
     starbucks,
     tesla,
@@ -56,6 +57,10 @@ import {
   ];
   
   const technologies = [
+    {
+      name: "Python",
+      icon: python,
+    },
     {
       name: "HTML 5",
       icon: html,
