@@ -15,6 +15,7 @@ import {
     docker,
     python,
     flutter,
+    adobe,
     meta,
     starbucks,
     tesla,
@@ -81,8 +82,8 @@ import {
       icon: typescript,
     },
     {
-      name: "React JS",
-      icon: reactjs,
+      name: "Adobe creative suite",
+      icon: adobe,
     },
     {
       name: "Tailwind CSS",

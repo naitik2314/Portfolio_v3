@@ -22,6 +22,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import python from "./tech/python.png"
 import flutter from "./tech/flutter.png"
+import adobe from "./tech/adobe.png"
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -44,6 +45,7 @@ export {
   css,
   docker,
   flutter,
+  adobe,
   figma,
   git,
   html,
