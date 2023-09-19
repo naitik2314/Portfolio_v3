@@ -26,6 +26,9 @@ import {
     tesla,
     shopify,
     carrent,
+    vns,
+    lw,
+    wayne,
     jobit,
     tripguide,
     threejs,
@@ -120,7 +123,7 @@ import {
     {
       title: "Business Analyst Intern",
       company_name: "VNS Switchgear PVT LTD",
-      icon: starbucks,
+      icon: vns,
       iconBg: "#383E56",
       date: "Jul 2019 - Dec 2019",
       points: [
@@ -131,7 +134,7 @@ import {
     {
       title: "Python Developer Intern",
       company_name: "LW Informatics",
-      icon: tesla,
+      icon: lw,
       iconBg: "#E6DEDD",
       date: "Jan 2020 - Dec 2020",
       points: [
@@ -144,7 +147,7 @@ import {
     {
       title: "Flutter App Developer Internr",
       company_name: "LW Informatics",
-      icon: shopify,
+      icon: lw,
       iconBg: "#383E56",
       date: "Jan 2021 - Dec 2021",
       points: [
@@ -155,7 +158,7 @@ import {
     {
       title: "Student Assistant",
       company_name: "Wayne State University",
-      icon: meta,
+      icon: wayne,
       iconBg: "#E6DEDD",
       date: "Jun 2023 - Sep 2023",
       points: [
@@ -166,7 +169,7 @@ import {
     {
       title: "Student Assistant Computing & Information Technology",
       company_name: "Wayne State University",
-      icon: meta,
+      icon: wayne,
       iconBg: "#E6DEDD",
       date: "Sep 2023 - Present",
       points: [

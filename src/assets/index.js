@@ -33,6 +33,9 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import vns from "./company/vns.png";
+import lw from "./company/lw.png";
+import wayne from "./company/wayne.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -72,6 +75,9 @@ export {
   c,
   starbucks,
   tesla,
+  vns,
+  lw,
+  wayne,
   carrent,
   jobit,
   tripguide,
