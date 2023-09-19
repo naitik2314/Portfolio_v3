@@ -10,6 +10,7 @@ import {
     reactjs,
     tailwind,
     mongodb,
+    c,
     git,
     figma,
     docker,
@@ -90,8 +91,8 @@ import {
       icon: tailwind,
     },
     {
-      name: "MongoDB",
-      icon: mongodb,
+      name: "C",
+      icon: c,
     },
     {
       name: "Three JS",

@@ -23,6 +23,7 @@ import threejs from "./tech/threejs.svg";
 import python from "./tech/python.png"
 import flutter from "./tech/flutter.png"
 import adobe from "./tech/adobe.png"
+import c from "./tech/c.png"
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -60,6 +61,7 @@ export {
   meta,
   shopify,
   python,
+  c,
   starbucks,
   tesla,
   carrent,
