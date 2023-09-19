@@ -48,8 +48,8 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
         I'm a skilled software developer with experience in Docker, MySQL, C, 
-        and expertise in Flutter, and Python
-        . I'm a quick learner and collaborate closely with clients to
+        and expertise in Flutter, and Python. 
+        I'm a quick learner and collaborate closely with clients to
         create efficient, scalable, and user-friendly solutions that solve
         real-world problems. I am currently looking for internships to gain more experience.
         Let's connect to discuss!
