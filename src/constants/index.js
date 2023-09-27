@@ -199,11 +199,11 @@ import {
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+        "Naitik made impactful contributions to our software development team at LW Informatics, enhancing app stability and reducing development time. A valuable asset.",
+      name: "Vimal Daga",
+      designation: "Founder",
+      company: "LW Informatics",
+      image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crunchbase.com%2Fperson%2Fvimal-daga&psig=AOvVaw0zCTBlXfCE7VlVYfEhu_T1&ust=1695944921497000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIi416b9y4EDFQAAAAAdAAAAABAT",
     },
   ];
   
