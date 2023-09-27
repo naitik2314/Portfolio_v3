@@ -199,11 +199,11 @@ import {
     },
     {
       testimonial:
-        "Naitik made impactful contributions to our software development team at LW Informatics, enhancing app stability and reducing development time. A valuable asset.",
+        "Naitik made impactful contributions to our software development team at LW Informatics, enhancing app stability and reducing development time.",
       name: "Vimal Daga",
       designation: "Founder",
       company: "LW Informatics",
-      image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crunchbase.com%2Fperson%2Fvimal-daga&psig=AOvVaw0zCTBlXfCE7VlVYfEhu_T1&ust=1695944921497000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIi416b9y4EDFQAAAAAdAAAAABAT",
+      image: "https://media.licdn.com/dms/image/D4D03AQFXmcHM9qcV2A/profile-displayphoto-shrink_800_800/0/1684676553726?e=1701302400&v=beta&t=Apns5w9QhCNq0wzIS-muJVZai81lhHxczZas3YodA_E",
     },
   ];
   
