@@ -191,11 +191,11 @@ import {
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+        "Naitik was an invaluable asset to our team, demonstrating exceptional organizational skills in administrative tasks. He also played a pivotal role in fostering interdepartmental collaboration, significantly improving our organizational efficiency.",
+      name: "Brian Fitzgerald",
+      designation: "Director of Housing",
+      company: "Wayne State Uiversity",
+      image: "https://media.licdn.com/dms/image/C4E03AQHowv6mP5tz1g/profile-displayphoto-shrink_200_200/0/1548592039946?e=1701302400&v=beta&t=M54dNDNuVcUAOKfmyn1P-BvecOeJK7mjS3nrpkh4H_k",
     },
     {
       testimonial:
