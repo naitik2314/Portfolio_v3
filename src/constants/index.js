@@ -183,7 +183,7 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+        "Naitik excelled in my Design and Analysis of Algorithms course, demonstrating exceptional problem-solving skills and a deep understanding of complex concepts. He actively contributed to class discussions, consistently producing high-quality work. I highly recommend [Your Name] for any role requiring top-tier algorithmic expertise.",
       name: "Sara Lee",
       designation: "CFO",
       company: "Acme Co",
