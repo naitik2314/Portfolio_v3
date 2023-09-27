@@ -183,11 +183,11 @@ import {
   const testimonials = [
     {
       testimonial:
-        "Naitik excelled in my Design and Analysis of Algorithms course, demonstrating exceptional problem-solving skills and a deep understanding of complex concepts. He actively contributed to class discussions, consistently producing high-quality work. I highly recommend [Your Name] for any role requiring top-tier algorithmic expertise.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+        "Naitik excelled in my Algorithms course, consistently producing high-quality work. I highly recommend Naitik for roles requiring top-tier algorithmic expertise.",
+      name: "Dr Abusayeed Saifullah",
+      designation: "Professor",
+      company: "Wayne State University",
+      image: "https://people.wayne.edu/profile/gi8674/2155/abu.jpg",
     },
     {
       testimonial:
