@@ -192,7 +192,7 @@ import {
     {
       testimonial:
         "Naitik was an invaluable asset to our team, demonstrating exceptional organizational skills in administrative tasks. He also played a pivotal role in fostering interdepartmental collaboration, significantly improving our organizational efficiency.",
-      name: "Brian Fitzgerald",
+      name: "Dr Brian Fitzgerald",
       designation: "Director of Housing",
       company: "Wayne State Uiversity",
       image: "https://people.wayne.edu/profile/gh2291/1929/webp_net-resizeimage.jpg",
@@ -200,7 +200,7 @@ import {
     {
       testimonial:
         "Naitik made impactful contributions to our software development team at LW Informatics, enhancing app stability and reducing development time.",
-      name: "Vimal Daga",
+      name: "Mr Vimal Daga",
       designation: "Founder",
       company: "LW Informatics",
       image: "https://sp-ao.shortpixel.ai/client/to_webp,q_lossless,ret_img,w_250,h_250/https://www.hash13.com/wp-content/uploads/2022/03/VD_250x250-1.jpg",
