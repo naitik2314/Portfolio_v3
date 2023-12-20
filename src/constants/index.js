@@ -195,7 +195,7 @@ import {
       name: "Brian Fitzgerald",
       designation: "Director of Housing",
       company: "Wayne State Uiversity",
-      image: "https://media.licdn.com/dms/image/C4E03AQHowv6mP5tz1g/profile-displayphoto-shrink_200_200/0/1548592039946?e=1701302400&v=beta&t=M54dNDNuVcUAOKfmyn1P-BvecOeJK7mjS3nrpkh4H_k",
+      image: "https://people.wayne.edu/profile/gh2291/1929/webp_net-resizeimage.jpg",
     },
     {
       testimonial:
@@ -203,7 +203,7 @@ import {
       name: "Vimal Daga",
       designation: "Founder",
       company: "LW Informatics",
-      image: "https://media.licdn.com/dms/image/D4D03AQFXmcHM9qcV2A/profile-displayphoto-shrink_800_800/0/1684676553726?e=1701302400&v=beta&t=Apns5w9QhCNq0wzIS-muJVZai81lhHxczZas3YodA_E",
+      image: "https://sp-ao.shortpixel.ai/client/to_webp,q_lossless,ret_img,w_250,h_250/https://www.hash13.com/wp-content/uploads/2022/03/VD_250x250-1.jpg",
     },
   ];
   
