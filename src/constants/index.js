@@ -145,7 +145,7 @@ import {
       ],
     },
     {
-      title: "Flutter App Developer Internr",
+      title: "Flutter App Developer Intern",
       company_name: "LW Informatics",
       icon: lw,
       iconBg: "#383E56",
